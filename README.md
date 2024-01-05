@@ -10,9 +10,13 @@ This repository contains the code and data used in our paper titled "Expediting 
 
 
 ## Usage
-You can use the tool to identify author of opinions using [SCOTUS_AID]([URL](https://raminass.github.io/SCOTUS_AI/))
- 
+You can use the tool to identify author of opinions using [Visit SCOTUS_AID](https://raminass.github.io/SCOTUS_AI/)
 
-```bash
-# Example installation command
-pip install -r requirements.txt
+## Data
+
+Dataset used to train and evaluate the model: [raminass/opinions-94-23](https://huggingface.co/datasets/raminass/opinions-94-23)
+
+## Code
+
+The model reported in the paper and website, is the one trained with 14 justices, code and dependency packages used to train the model in `train_model_14.ipynb`.
+
