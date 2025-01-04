@@ -15,7 +15,7 @@ import evaluate
 
 
 pre_trained = "nlpaueb/legal-bert-small-uncased"
-# pre_trained = "raminass/scotus-v10"
+pre_trained = "raminass/scotus-v10"
 # https://huggingface.co/spaces/evaluate-metric/accuracy
 accuracy = evaluate.load("accuracy")
 tokenizer = AutoTokenizer.from_pretrained(
