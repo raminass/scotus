@@ -1,0 +1,323 @@
+{
+    "1994": [
+        "Rehnquist",
+        "Stevens",
+        "Scalia",
+        "O'Connor",
+        "Ginsburg",
+        "Thomas",
+        "Souter",
+        "Breyer",
+        "Kennedy"
+    ],
+    "1995": [
+        "Scalia",
+        "Stevens",
+        "Ginsburg",
+        "Breyer",
+        "Souter",
+        "O'Connor",
+        "Thomas",
+        "Kennedy",
+        "Rehnquist"
+    ],
+    "1996": [
+        "Scalia",
+        "Stevens",
+        "Rehnquist",
+        "Souter",
+        "O'Connor",
+        "Kennedy",
+        "Breyer",
+        "Ginsburg",
+        "Thomas"
+    ],
+    "1997": [
+        "Ginsburg",
+        "Stevens",
+        "Souter",
+        "Thomas",
+        "Rehnquist",
+        "Breyer",
+        "Scalia",
+        "O'Connor",
+        "Kennedy"
+    ],
+    "1998": [
+        "Scalia",
+        "Thomas",
+        "Stevens",
+        "Breyer",
+        "Rehnquist",
+        "Souter",
+        "Kennedy",
+        "O'Connor",
+        "Ginsburg"
+    ],
+    "1999": [
+        "Breyer",
+        "Rehnquist",
+        "Souter",
+        "Thomas",
+        "Stevens",
+        "Kennedy",
+        "Scalia",
+        "Ginsburg",
+        "O'Connor"
+    ],
+    "2000": [
+        "O'Connor",
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "Rehnquist",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Thomas"
+    ],
+    "2001": [
+        "Stevens",
+        "Kennedy",
+        "Thomas",
+        "Scalia",
+        "Breyer",
+        "Ginsburg",
+        "Rehnquist",
+        "O'Connor",
+        "Souter"
+    ],
+    "2002": [
+        "Rehnquist",
+        "Stevens",
+        "Thomas",
+        "Souter",
+        "Breyer",
+        "Ginsburg",
+        "Scalia",
+        "Kennedy",
+        "O'Connor"
+    ],
+    "2003": [
+        "Scalia",
+        "Souter",
+        "Kennedy",
+        "Stevens",
+        "Thomas",
+        "O'Connor",
+        "Breyer",
+        "Rehnquist",
+        "Ginsburg"
+    ],
+    "2004": [
+        "Ginsburg",
+        "Stevens",
+        "Kennedy",
+        "Thomas",
+        "Scalia",
+        "Breyer",
+        "Souter",
+        "Rehnquist",
+        "O'Connor"
+    ],
+    "2005": [
+        "Ginsburg",
+        "Thomas",
+        "Stevens",
+        "Breyer",
+        "Souter",
+        "Kennedy",
+        "Roberts",
+        "Scalia",
+        "O'Connor",
+        "Rehnquist"
+    ],
+    "2006": [
+        "Breyer",
+        "Stevens",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Scalia",
+        "Alito",
+        "Kennedy",
+        "Roberts",
+        "O'Connor"
+    ],
+    "2007": [
+        "Ginsburg",
+        "Scalia",
+        "Thomas",
+        "Alito",
+        "Stevens",
+        "Kennedy",
+        "Breyer",
+        "Souter",
+        "Roberts"
+    ],
+    "2008": [
+        "Thomas",
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "Roberts",
+        "Scalia",
+        "Stevens",
+        "Souter",
+        "Alito"
+    ],
+    "2009": [
+        "Scalia",
+        "Kennedy",
+        "Breyer",
+        "Ginsburg",
+        "Thomas",
+        "Stevens",
+        "Alito",
+        "Sotomayor",
+        "Roberts",
+        "Souter"
+    ],
+    "2010": [
+        "Breyer",
+        "Scalia",
+        "Kennedy",
+        "Stevens",
+        "Sotomayor",
+        "Alito",
+        "Ginsburg",
+        "Thomas",
+        "Roberts"
+    ],
+    "2011": [
+        "Kennedy",
+        "Breyer",
+        "Scalia",
+        "Thomas",
+        "Ginsburg",
+        "Sotomayor",
+        "Alito",
+        "Kagan",
+        "Roberts"
+    ],
+    "2012": [
+        "Kennedy",
+        "Ginsburg",
+        "Breyer",
+        "Roberts",
+        "Alito",
+        "Thomas",
+        "Sotomayor",
+        "Scalia",
+        "Kagan"
+    ],
+    "2013": [
+        "Ginsburg",
+        "Alito",
+        "Breyer",
+        "Kennedy",
+        "Scalia",
+        "Roberts",
+        "Thomas",
+        "Sotomayor",
+        "Kagan"
+    ],
+    "2014": [
+        "Roberts",
+        "Thomas",
+        "Breyer",
+        "Kagan",
+        "Ginsburg",
+        "Scalia",
+        "Sotomayor",
+        "Kennedy",
+        "Alito"
+    ],
+    "2015": [
+        "Breyer",
+        "Sotomayor",
+        "Roberts",
+        "Thomas",
+        "Alito",
+        "Scalia",
+        "Kagan",
+        "Ginsburg",
+        "Kennedy"
+    ],
+    "2016": [
+        "Ginsburg",
+        "Thomas",
+        "Roberts",
+        "Alito",
+        "Breyer",
+        "Sotomayor",
+        "Kagan",
+        "Kennedy",
+        "Scalia"
+    ],
+    "2017": [
+        "Ginsburg",
+        "Thomas",
+        "Sotomayor",
+        "Kagan",
+        "Kennedy",
+        "Alito",
+        "Breyer",
+        "Roberts"
+    ],
+    "2018": [
+        "Kennedy",
+        "Kagan",
+        "Ginsburg",
+        "Thomas",
+        "Breyer",
+        "Alito",
+        "Sotomayor",
+        "Roberts"
+    ],
+    "2019": [
+        "Thomas",
+        "Ginsburg",
+        "Alito",
+        "Breyer",
+        "Sotomayor",
+        "Kagan",
+        "Roberts"
+    ],
+    "2020": [
+        "Alito",
+        "Kagan",
+        "Breyer",
+        "Sotomayor",
+        "Ginsburg",
+        "Thomas",
+        "Roberts",
+        "Gorsuch"
+    ],
+    "2021": [
+        "Kagan",
+        "Breyer",
+        "Sotomayor",
+        "Gorsuch",
+        "Roberts",
+        "Thomas",
+        "Alito"
+    ],
+    "2022": [
+        "Kagan",
+        "Breyer",
+        "Sotomayor",
+        "Gorsuch",
+        "Roberts",
+        "Thomas",
+        "Alito"
+    ],
+    "2023": [
+        "Kagan",
+        "Sotomayor",
+        "Gorsuch",
+        "Roberts",
+        "Thomas",
+        "Alito"
+    ]
+}
